@@ -24,3 +24,6 @@ Dashboard Interaction <a href="https://github.com/rajshreepawar59241-cyber/Gener
 ## Dashboard
 <img width="822" height="344" alt="general_store_db" src="https://github.com/user-attachments/assets/2209a8eb-138d-4094-88dd-e7b97ca00f19" />
 
+## Conclusion
+This project demonstrates how data visualization and analysis can transform raw sales data into clear business insights that support strategic decision-making.
+
