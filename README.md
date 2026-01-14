@@ -4,4 +4,4 @@ This project focuses on analyzing general store sales data to understand custome
 The goal is to derive actionable business insights that can help improve sales strategy and customer targeting.
 
 ## Dataset used
-- <a herf="https://github.com/rajshreepawar59241-cyber/General-Store-Data-Analysis-Dashboard/commit/0b152cb9568b3c44347776f1dedad626e492adb3">Dataset</a>
+- <a herf="https://github.com/rajshreepawar59241-cyber/General-Store-Data-Analysis-Dashboard/commit/0b152cb9568b3c44347776f1dedad626e492adb3.xlsx">Dataset</a>
